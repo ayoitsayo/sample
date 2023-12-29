@@ -1,0 +1,37 @@
+footer{
+	background-image: url('../img/bg.png');
+	height: 200px;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	opacity: .8
+}
+a{
+    display: block;
+	font-weight: bold;
+	color: #ffffff;
+	background: #323493;
+	width: 200px;
+	text-align: center;
+	padding: 4px;
+	text-decoration: none;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+a:hover{
+    background: #cacaca;
+	color: #0006cc;
+	border: 1px solid #0006cc;
+}
+
+a:focus{
+    background: #b3b3b3;
+	color: #0006cc;
+}
+
+a:active{
+    border: 2px solid #cacaca;
+}
+
+bod
